@@ -4,7 +4,7 @@
 [![Tecnologia](https://img.shields.io/badge/Tecnologia-HTML5%20%7C%20JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/it/docs/Web/HTML)
 [![Licenza](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
-Progetto didattico minimale, implementazione di un mini-gioco 2D in stile Asteroids utilizzando unicamente HTML5 Canvas e JavaScript (Vanilla ES6), realizzato per un'esercitazione d'esame.
+Progetto minimale, implementazione di un mini-gioco 2D in stile Asteroids utilizzando unicamente HTML5 Canvas e JavaScript (Vanilla ES6)
 
 ## Funzionalità Principali
 
