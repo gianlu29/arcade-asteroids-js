@@ -1,6 +1,6 @@
 # Arcade Asteroids (Minimal)
 
-**Descrizione**
+**Descrizione:**
 Un semplice gioco arcade ispirato ad *Asteroids* realizzato con HTML5 canvas e JavaScript puro. Progetto didattico pensato per dimostrare competenze in: JavaScript, game loop, gestione eventi, collision detection, e deploy statico su GitHub Pages.
 
 **Funzionalità**
@@ -25,3 +25,6 @@ Un semplice gioco arcade ispirato ad *Asteroids* realizzato con HTML5 canvas e J
 
 **Licenza**
 MIT
+
+## Demo
+Demo disponibile su GitHub Pages.
